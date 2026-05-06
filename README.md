@@ -291,9 +291,7 @@ python predict_davis.py \
 
 ## Submitting a New Model
 
-We accept new PLMs through GitHub issues — please **do not open a PR directly**; we want to triage scope and reproducibility first.
-
-> **Open an issue:** [TODO: GitHub issues URL]
+We accept new PLMs through GitHub issues. Please **do not open a PR directly**; we want to triage scope and reproducibility first.
 
 To submit a new model, use the following as checklist and include:
 
